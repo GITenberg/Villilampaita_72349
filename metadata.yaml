@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hichens, Robert
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/919
     wikipedia: https://en.wikipedia.org/wiki/Robert_Hichens_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72349#Villilampaita
 gutenberg_issued: '2023-12-07'
 identifiers:
   gutenberg: '72349'
